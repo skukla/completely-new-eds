@@ -7,7 +7,7 @@ mountpoints:
 
 # Use the following for Doc-based authoring. Make sure to change it to your SharePoint or Google Drive url.
 #mountpoints:
-# /: https://adobe.sharepoint.com/:w:/r/sites/CitiSignal/Shared%20Documents/CitiSignal-Storefront
+/: https://drive.google.com/drive/u/0/folders/1d0t325C-1qjsQ0_uZ2Frc1ucmmH3b55_
 
 folders:
   /products/plan/: /products/plan/default
